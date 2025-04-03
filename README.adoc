@@ -1,10 +1,10 @@
 = Melanie Allen Resume
 
-I generated this resume using an open-Source template that uses a https://www.writethedocs.org/guide/docs-as-code/[docs-as-code] approach.
+I generated this resume using an https://github.com/capsulecorplab/tech-writer-resume[Open-Source template] that uses a https://www.writethedocs.org/guide/docs-as-code/[docs-as-code] approach.
 
 Resume is generated as both an html & pdf document,
 using https://asciidoctor.org/[Asciidoctor]
  - a static-site generator for the
 https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language,
-then published to https://capsulecorplab.github.io/tech-writer-resume/,
+then published to https://goldfishlaser.github.io/tech-writer-resume/,
 using https://github.com/peaceiris/actions-gh-pages[GitHub Actions for GitHub Pages].
