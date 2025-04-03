@@ -1,65 +1,67 @@
 ifndef::backend-pdf[]
-image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/capsulecorplab/tech-writer-resume] image:https://img.shields.io/badge/Download%20-PDF-blue[Download PDF, link=https://capsulecorplab.github.io/tech-writer-resume/jane-smith-resume.pdf]
+image:https://img.shields.io/badge/License-MIT-yellow.svg[MIT License, link=https://opensource.org/licenses/MIT] image:https://img.shields.io/badge/View%20on-GitHub-orange[View on GitHub, link=https://github.com/goldfishlaser/tech-writer-resume] image:https://img.shields.io/badge/Download%20-PDF-blue[Download PDF, link=https://goldfishlaser.github.io/tech-writer-resume/melanie-allen-resume.pdf]
 endif::[]
 
 == Melanie Allen
 
 [%hardbreaks]
-555-555-5555
-jane.smith@email.com
+404-468-1620
+melanienallen@gmail.com
 
-I have a passion for making resumes.
+Dynamic communications professional who brings skills in technical writing, information design, instructional design, product marketing, and cross-departmental team collaboration. Proven ability to manage documentation in multiple industries and using analytics to make continuous improvements
 
 === Skill Summary
 
 [%hardbreaks]
-Writing resumes.
-Proficient with various markup formats.
-Converting structured plain text documents into PDF.
+Technical Communication
+Product Marketing
+Software Documentation
+Manufacturing Documentation
+Installation Manuals
+Version Control
+SME Interviews
+Research
+Remote Team Collaboration
+Multimedia Development
+Graphic Design
+Instructional Design
+Human Computer Interaction
 
 .Tool Proficiency
 --
-Markdown, HTML, CSS, pandoc, Neovim, tmux, GNU Make, wkhtmltopdf
+Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOffice, Adobe Creative Pro, Microsoft Office
 --
 
 === Professional Experience
 
-==== Fantasy Resumes, Inc.
+==== Movius
 
-_October 2016 - Present_
+_March 2020 - March 2025
 
-.Resume Fairy
+.Product Marketing
 --
-Provide resumes that clients dream up under their pillows while they sleep.
-This involves deciphering each client's dream with specialized tools and
-producing it for the client before she or he wakes.  To accomplish this a
-template is used to convert structured plain text into a nice looking resume.
+Managed the MultiLine Help Center
+Wrote blogs using SEO techniques
+Collaborated with product managers on positioning and messaging
+Created sales enablement materials
+Assisted with planning marketing events
 --
 
-==== Curriculum Vitae, LLC
+==== US Tech Solutions
 
 _July 2004 - October 2016_
 
-.Word Smith | April 2010 – October 2016
+.Technical Writer | April 2010 – October 2016
 --
-Hammered out words to produce curriculum vitae for clients.  Corrected errors
-detected by the typo snipers.
-
-Developed a resume template the separated layout and content so word smiths can
-focus on the important things: hammering out words.
---
-
-.Typo Sniper | July 2004 – April 2010
---
-Analyzed the quality of curriculum vitae produced by the word smiths.
-Documents that contained errors and typos were sent back for corrections.
-
-Improved efficiency by providing error correction tools early in the process,
-such as spell check.
+Collaborated with the Fiber Education Team to maintain the Customer Service Knowledge Base for Google Fiber
+Scoped change impacts across documentation types.
+Participated in a complete revamping of the organization of our reusable content.
+Bootstrapped the new Sales knowledge base with materials from the CSR knowledge base.
+Used SEO techniques to optimize retrieval of information for techs on the job.
 --
 
 === Education
 
-*Resume University* | _2000 – 2004_ | Bachelor's degree in resume writing
+*Southern Polytechnic State University* | 2012 | B.S. Technical Communication
 
-*Plain Text High School* | _2000_ | Graduated
+*Rockdale Magnet School* | 2007 | Graduated with honors
