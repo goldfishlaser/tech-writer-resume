@@ -40,11 +40,11 @@ _March 2020 - March 2025
 
 .Product Marketing
 --
-Managed the MultiLine Help Center
-Wrote blogs using SEO techniques
-Collaborated with product managers on positioning and messaging
-Created sales enablement materials
-Assisted with planning marketing events
+- Managed the MultiLine Help Center
+- Wrote blogs using SEO techniques
+- Collaborated with product managers on positioning and messaging
+- Created sales enablement materials
+- Assisted with planning marketing events
 --
 
 ==== US Tech Solutions
@@ -53,11 +53,11 @@ _July 2004 - October 2016_
 
 .Technical Writer | April 2010 – October 2016
 --
-Collaborated with the Fiber Education Team to maintain the Customer Service Knowledge Base for Google Fiber
-Scoped change impacts across documentation types.
-Participated in a complete revamping of the organization of our reusable content.
-Bootstrapped the new Sales knowledge base with materials from the CSR knowledge base.
-Used SEO techniques to optimize retrieval of information for techs on the job.
+- Collaborated with the Fiber Education Team to maintain the Customer Service Knowledge Base for Google Fiber
+- Scoped change impacts across documentation types.
+- Participated in a complete revamping of the organization of our reusable content.
+- Bootstrapped the new Sales knowledge base with materials from the CSR knowledge base.
+- Used SEO techniques to optimize retrieval of information for techs on the job.
 --
 
 === Education
