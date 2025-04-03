@@ -3,7 +3,7 @@ name: Build w/ Asciidoctor & deploy to GitHub Pages
 on:
   push:
     branches:
-      - main
+      - deploy
 
 jobs:
   deploy:
@@ -17,7 +17,7 @@ jobs:
       - name: Build
         run: make pdf && make html
 
-      - name: Main
+      - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
