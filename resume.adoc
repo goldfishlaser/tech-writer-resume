@@ -36,9 +36,7 @@ Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOff
 
 ==== Movius
 
-_March 2020 - March 2025_
-
-.Product Marketing
+.Product Marketing | March 2020 – March 2025
 --
 - Managed the MultiLine Help Center
 - Wrote blogs using SEO techniques
@@ -48,8 +46,6 @@ _March 2020 - March 2025_
 --
 
 ==== US Tech Solutions
-
-_July 2004 - October 2016_
 
 .Technical Writer | April 2010 – October 2016
 --
@@ -61,11 +57,32 @@ _July 2004 - October 2016_
 --
 
 ==== TOTO USA
+
+.Technical Writer | April 2010 – October 2016
+--
+-Created installation manuals using Adobe InDesign
+--
+
+==== Southern Polytechnic State University
+
+.Technical Writer | April 2010 – October 2016
 --
 -Created installation manuals using Adobe InDesign
 --
 
 === Education
+
+*Southern Polytechnic State University* | 2012 | B.S. Technical Communication
+
+*Rockdale Magnet School* | 2007 | Graduated with honors
+
+=== Certifications
+
+*Southern Polytechnic State University* | 2012 | B.S. Technical Communication
+
+*Rockdale Magnet School* | 2007 | Graduated with honors
+
+=== Talks
 
 *Southern Polytechnic State University* | 2012 | B.S. Technical Communication
 
