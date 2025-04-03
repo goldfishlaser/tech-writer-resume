@@ -36,7 +36,7 @@ Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOff
 
 ==== Movius
 
-_March 2020 - March 2025
+_March 2020 - March 2025_
 
 .Product Marketing
 --
