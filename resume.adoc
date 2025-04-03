@@ -63,6 +63,7 @@ _July 2004 - October 2016_
 ==== TOTO USA
 --
 -Created installation manuals using Adobe InDesign
+--
 
 === Education
 
