@@ -1,0 +1,112 @@
+= Technical Writer Resume
+
+Open-Source template for publishing a technical writer resume,
+following a https://www.writethedocs.org/guide/docs-as-code/[docs-as-code] approach.
+
+Resume is generated as both an html & pdf document,
+using https://asciidoctor.org/[Asciidoctor]
+ - a static-site generator for the
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference[AsciiDoc] markup language,
+then published to https://capsulecorplab.github.io/tech-writer-resume/,
+using https://github.com/peaceiris/actions-gh-pages[GitHub Actions for GitHub Pages].
+
+See https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key[Create SSH Deploy Key] for enabling https://github.com/peaceiris/actions-gh-pages[GitHub Actions for GitHub Pages].
+
+This project is based on the https://github.com/KibaFox/resume-template[Resume/CV Template] by https://github.com/KibaFox[KibaFox].
+
+== Dependencies
+
+Dependencies:
+
+* [GNU Make][make] - Command line tool used to build the resume.
+* [Docker][docker] - Used to run Asciidoctor without having to install it.
+
+If you do not wish yo run Docker, you can set the environment variable
+`USE_DOCKER` to `false`.  You will have to install the following dependencies:
+
+* https://asciidoctor.org/[Asciidoctor]
+* [Asciidoctor PDF][asciidoctor-pdf]
+
+This project is intended to run on Unix-like systems.  It might be possible to
+run on Windows, but this is not supported.
+
+== Running
+
+From the root of the project directory (in this example, the project root is
+`~/proj/resume-template`), running the following will display the help text:
+
+....
+[~/proj/resume-template]$ make
+Resume/CV - Turn text into professional PDF or HTML resume/CV
+
+Usage: make <action>
+
+Actions:
+  clean      to remove the output directory
+  html       to make a standalone HTML version of the resume
+  pdf        to produce a PDF version of the resume
+
+Environment variables
+  NAME       the filename (without extension) of the output
+             (currently: jane-smith-resume)
+  SOURCE     the source file to use as input
+             (currently: resume.adoc)
+  OUTDIR     the directory where the generated files will be placed
+             (currently: dist)
+  PAGE_SIZE  the page size for the PDF (example: Letter)
+             (currently: A4)
+  USE_DOCKER if set to "true", will use docker to run generator
+             (currently: true)
+
+Example:
+  $ export USE_DOCKER=true
+  $ make pdf
+    Resume/CV - Turn text into professional PDF or HTML resume/CV
+....
+
+The help text provides a list of actions available and brief descriptions of
+each.
+
+To generate the HTML version of the resume, run the following:
+
+ [~/proj/resume-template]$ make html
+
+This will create the `public/` directory in the root of the project if it
+doesn't exist already and `jane-smith-resume.html` will be produced inside. You
+can view the resume by opening this file with your browser.
+
+To generate the PDF version of the resume, run the following:
+
+ [~/proj/resume-template]$ make pdf
+
+This will create the file `public/jane-smith-resume.pdf`.
+
+== Environment Variable Configuration
+
+There are environment variables that you can set that affect how your finish
+product gets generated.  For example, setting the `NAME` variable to
+`john-henry-cv` will make the output filenames be `john-henry-cv.pdf` and
+`john-henry-cv.html` for the PDF and HTML versions respectively.  This can help
+make your files identifiable from other people's when the person reviewing your
+resume/cv downloads it.
+
+On most Unix-based systems, you will be able to use the `env` command to set
+environment variables for a single command.  If we want to generate the PDF
+version of our resume with a personal name as part of the file name, we would
+run something like the following:
+
+ [~/proj/resume-template]$ env NAME=john-henry-cv pdf
+
+Most shells let you export environment variables so you do not have to specify
+them with the `env` command every time.  If you are using the bash, zsh, or
+other POSIX compliant shell, then you can use the `export` command like so:
+
+ [~/proj/resume-template]$ export NAME=john-henry-cv
+
+If you are using https://fishshell.com/[fish] you would use the `set` command
+instead:
+
+ [~/proj/resume-template]$ set -x NAME john-henry-cv
+
+Exporting your environment variable makes it so the setting persists for all
+commands until you change it again or unset it.
