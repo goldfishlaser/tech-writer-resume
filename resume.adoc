@@ -9,24 +9,24 @@ Technical Content Specialist
 404-468-1620
 melanienallen@gmail.com
 
-Dynamic communications professional who brings skills in technical writing, information design, instructional design, product marketing, and cross-departmental team collaboration. Proven ability to manage documentation in multiple industries and using analytics to make continuous improvements
+Dynamic communications professional who brings skills in technical writing, information design, instructional design, product marketing, and cross-departmental team collaboration. Proven ability to manage documentation in multiple industries and use analytics to make continuous improvements
 
 === Skill Summary
 
 [%hardbreaks]
-Technical Communication
-Product Marketing
-Software Documentation
-Manufacturing Documentation
-Installation Manuals
-Version Control
-SME Interviews
-Research
-Remote Team Collaboration
-Multimedia Development
-Graphic Design
-Instructional Design
-Human Computer Interaction
+- Technical Communication
+- Product Marketing
+- Software Documentation
+- Manufacturing Documentation
+- Installation Manuals
+- Version Control
+- SME Interviews
+- Research
+- Remote Team Collaboration
+- Multimedia Development
+- Graphic Design
+- Instructional Design
+- Human Computer Interaction
 
 .Tool Proficiency
 --
