@@ -77,13 +77,6 @@ Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOff
 - Helped with the development of a new Teaching Academy for Distance Learning course that provided "online teaching concepts, pedagogy, tools training [including GeorgiaVIEW Desire2Learn (D2L), Wimba, Respondus, Turnitin, Ensemble, etc.] and individualized assistance with course development/revision".
 --
 
-==== Southern Polytechnic State University
-
-.Technical Writer | April 2010 – October 2016
---
-- Created installation manuals using Adobe InDesign
---
-
 === Education
 
 *Southern Polytechnic State University* | 2012 | B.S. Technical Communication
