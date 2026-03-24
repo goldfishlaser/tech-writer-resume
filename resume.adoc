@@ -16,8 +16,8 @@ Dynamic communications professional who brings skills in technical writing, info
 
 [%hardbreaks]
 - Technical Communication: Information Design, Software Documentation, Installation Manuals, Instructional Design, Graphic Design, Documentation Lifecycle, SME Interviews
-- Product Marketing: Marketing Copywriting and SEO, GTM Strategy
-- Business: Research, Analytics, Security and Compliance, Remote Team Collaboration, Public Speaking
+- Product Marketing: Research, Analytics, Marketing Copywriting and SEO, GTM Strategy
+- Business: Security and Compliance, Remote Team Collaboration, Public Speaking, B2B
 
 .Tool Proficiency
 --
