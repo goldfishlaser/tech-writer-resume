@@ -43,10 +43,11 @@ Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOff
 
 .Product Marketing | March 2020 – March 2025
 --
-- Managed the MultiLine Help Center
-- Wrote blogs using SEO techniques
-- Collaborated with product managers on positioning and messaging
-- Created sales enablement materials
+- Directly contributed to the success of product launches and product adoption by the customer by delivering quality  product marketing and end-user documentation.
+- Managed the MultiLine Help Center in knowledge base software
+- Wrote blogs using SEO techniques in Wordpress
+- Collaborated with product, marketing, and sales team on positioning and messaging
+- Created sales enablement materials in content management software
 - Assisted with planning marketing events
 --
 
@@ -54,6 +55,7 @@ Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOff
 
 .Technical Writer | April 2010 – October 2016
 --
+- My work helped call center agents solve customer problems faster and with less friction, leading to higher CSAM scores and better customer experiences.
 - Collaborated with the Fiber Education Team to maintain the Customer Service Knowledge Base for Google Fiber
 - Scoped change impacts across documentation types.
 - Participated in a complete revamping of the organization of our reusable content.
@@ -65,6 +67,7 @@ Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOff
 
 .Technical Writer | April 2010 – October 2016
 --
+- My work directly improved both the consistency and accuracy of instructions and the quality of translations, resulting in reduced manual reprints because of errors and customer service calls. 
 - Managed, edited, and created new installation manuals using InDesign and spare part sheets using Adobe Illustrator for the entire offering of plumbing fixtures and accessories at TOTO USA.
 - Interviewed Product Engineers and Tech Support, participated in installation demonstrations, and reviewed existing documentation to gather information to write new installation manuals and spare part sheets with minimal oversight.
 - Completed projects on schedule according to the Design Review (DR) and Modification Design Review (MDR) processes.
@@ -77,6 +80,7 @@ Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOff
 
 .Instructional Designer | Aug 2012 – Aug 2013
 --
+- My efforts contributed towards the availability of more high quality hybrid learning opportunites for students at the university and less manual work by the Instrutional Design team to help instructors create their courses. 
 - Worked on a team creating offline help documentation and material for workshops that taught SPSU faculty how to transition their online and face to face courses to the Desire2Learn LMS system.
 - Helped with the development of a new Teaching Academy for Distance Learning course that provided "online teaching concepts, pedagogy, tools training [including GeorgiaVIEW Desire2Learn (D2L), Wimba, Respondus, Turnitin, Ensemble, etc.] and individualized assistance with course development/revision".
 --
@@ -99,15 +103,25 @@ Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOff
 
 === Volunteering
 
-.Open Source Ecology Developer
-- Spent 6 months volunteering to document workflows for using a D3D 3D Printer for Pen Plotting using Inkscape and G-code tools.
+.SCaLE AV Team (Current)
+- Update existing AV Team Documentation and create new documentation for an internal cutter program used to process livestreams for upload to YouTube. Develop multiple strategies for delivering the information to volunteers before and during the conference.
+
+.DOF (Current)
+- Assist in documentation and marketing of DOF projects, starting with YAML Datastore. The DOF team uses a novel docs-as-code approach.
+
+.Open Source Ecology Developer (6 months)
+- Document workflows for using a D3D 3D Printer for Pen Plotting using Inkscape and G-code tools.
 - Helped edit wiki materials
 
-.BusKill Developer
+.BusKill Developer (5 years)
 - Spent 4 years developing designing an open source 3D printed magnetic USB release shell in OpenSCAD for the BusKill project. 
 
 === Talks
 
-*DEFCON32* | 2023 | Demo Lab - Open Hardware Design for BusKillCord
+*DEFCON33* | 2024 | Demo Lab - Tetra Bio PAPRa
 
-- Presented a Demo Lab at Defcon32 discussing my project to build an open hardware design for BusKill cables that uses 3D printing and easily sourceable components. BusKill cables are hardware Dead Man’s Switches that use USB events to trigger a laptop to lock, shutdown, or self-destruct when the laptop is physically separated from the operator
+- Discussed my Tetra Bio's project to build a powered air respirator (PAPRa) that uses 3D printing and easily sourceable components. PAPRas deliver pressurized filtered air to the user, defending them from airborn pathogens and particulates while providing a comfortable breathing experience.
+
+*DEFCON32* | 2023 | Demo Lab - Open Hardware Design for BusKill Cord
+
+- Discussed my project to build an open hardware design for BusKill cables that uses 3D printing and easily sourceable components. BusKill cables are hardware Dead Man’s Switches that use USB events to trigger a laptop to lock, shutdown, or self-destruct when the laptop is physically separated from the operator
