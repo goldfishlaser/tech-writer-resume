@@ -21,7 +21,7 @@ Dynamic communications professional with proven ability to develop diverse conte
 
 .Tool Proficiency
 --
-Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOffice, Adobe Creative Suite, Microsoft Office, Canva
+Git, Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, LibreOffice, Adobe Creative Suite, Microsoft Office, Canva, Jira, Confluence
 --
 
 === Professional Experience
