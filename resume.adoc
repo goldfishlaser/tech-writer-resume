@@ -40,7 +40,7 @@ Git, Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, Lib
 
 ==== US Tech Solutions
 
-.Technical Writer | April 2010 – October 2016
+.Technical Writer | March 2018 – March 2020
 --
 - My work helped call center agents solve customer problems faster and with less friction, leading to higher CSAM scores and better customer experiences.
 - Collaborated with the Fiber Education Team to maintain the Customer Service Knowledge Base for Google Fiber
