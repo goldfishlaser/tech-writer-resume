@@ -100,7 +100,8 @@ Git, Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, Lib
 === Volunteering
 
 .SCaLE AV Team (Current)
-- Update existing AV Team Documentation and create new documentation for an internal cutter program used to process livestreams for upload to YouTube. Develop multiple strategies for delivering the information to volunteers before and during the conference.
+- Update existing AV Team Documentation and create new documentation for an internal cutter program used to process livestreams for upload to YouTube. 
+- Identify opportunities to deliver information more effectively to volunteers before and during the conference.
 
 .DOF (Current)
 - Assist in documentation and marketing of DOF projects, starting with YAML Datastore. The DOF team uses a novel docs-as-code approach.
