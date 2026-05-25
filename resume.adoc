@@ -52,7 +52,7 @@ Git, Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, Lib
 
 ==== TOTO USA
 
-.Technical Writer | April 2010 – October 2016
+.Technical Writer | August 2014 – November 2017
 --
 - My work directly improved both the consistency and accuracy of instructions and the quality of translations, resulting in reduced manual reprints because of errors and customer service calls. 
 - Managed, edited, and created new installation manuals using InDesign and spare part sheets using Adobe Illustrator for the entire offering of plumbing fixtures and accessories at TOTO USA.
@@ -65,11 +65,20 @@ Git, Markdown, ASCIIDOC, HTML, CSS, JS, CMS, YAML, GIMP, Inkscape, OpenSCAD, Lib
 
 ==== Southern Polytechnic State University
 
-.Instructional Designer | Aug 2012 – Aug 2013
+.Instructional Designer | March 2012 – January 2014
 --
 - My efforts contributed towards the availability of more high quality hybrid learning opportunites for students at the university and less manual work by the Instrutional Design team to help instructors create their courses. 
 - Worked on a team creating offline help documentation and material for workshops that taught SPSU faculty how to transition their online and face to face courses to the Desire2Learn LMS system.
 - Helped with the development of a new Teaching Academy for Distance Learning course that provided "online teaching concepts, pedagogy, tools training [including GeorgiaVIEW Desire2Learn (D2L), Wimba, Respondus, Turnitin, Ensemble, etc.] and individualized assistance with course development/revision".
+--
+
+==== Mini Gadgets Inc.
+
+.Sales Assistant | March 2012 – September 2012
+--
+- I improved the efficiency of routine sales assistant activities, such as filing invoices.
+- I edited descriptions for the web site to make product capabilities more clear and compelling.
+- I edited poorly translated and formatted installation manuals to improve usability of the product and reduce help tickets. 
 --
 
 === Education
